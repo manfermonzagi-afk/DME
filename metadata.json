@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Emissão de Declarações de Serviço - Quibaxe",
+  "description": "Uma plataforma segura para emissão e gestão de declarações de serviço para a Direcção Municipal da Educação de Quibaxe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
